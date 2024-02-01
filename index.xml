@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Warhammer The Old World en español" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer The Old World.gstz" dataType="gamesystem" dataId="083a-288e-abf5-41d5" dataName="Warhammer: The Old World" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Reinos de los Altos Elfos.catz" dataType="catalogue" dataId="3d45-1e28-4481-5f2e" dataName="Reinos de los Altos Elfos" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
